@@ -1,0 +1,1 @@
+SELECT ID,first_name,last_name,DOB,nationality from person;

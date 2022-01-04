@@ -1,0 +1,1 @@
+SELECT * FROM show_tournaments;

@@ -1,0 +1,10 @@
+      //     handleSubmit=(event)=>
+      //     {
+      //           event.preventDefault();
+      //         fetch(('http://localhost:8000/addModerator'), {
+      //             method: 'POST', 
+      //             mode:"cors",
+      //             headers: {'Content-Type': 'application/json'},
+      //             body: (JSON.stringify(this.state.dataEntered))
+      //           });
+      //     }
